@@ -25,3 +25,4 @@ Navigate to Settings -> Remove Unused CFs and delete all postmeta for non-existi
 = Is it permanently removing the data? =
 
 Yes, the data would be removed from the database so use at your own risk. 
+
