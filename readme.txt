@@ -2,7 +2,7 @@
 Contributors: nofearinc
 Tags: plugin, post-types, delete, clean, database
 Requires at least: 3.1
-Tested up to: 3.5.1
+Tested up to: 4.0
 Stable tag: 0.1
 License: GPLv2 or later
 
